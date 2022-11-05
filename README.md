@@ -1,2 +1,2 @@
 # airtiesgraduationproject-OsmanCeylan
-airtiesgraduationproject-OsmanCeylan created by GitHub Classroom
+airtiesgraduationproject-OsmanCeylan
