@@ -1,2 +1,1 @@
-# airtiesgraduationproject-OsmanCeylan
-airtiesgraduationproject-OsmanCeylan
+# AirtiesBootcamp GraduationProject Step 1 OsmanCeylan
